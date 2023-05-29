@@ -63,7 +63,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pin4sf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Pin4sf&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pin4sf&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pin4sf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="138" alt="languages graph"  />
 </div>
 
