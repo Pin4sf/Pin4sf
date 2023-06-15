@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">💻Frontend Developer.....  🤖 Prompt Engineer.... 🀄Novice Designer</h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&size=24&duration=4000&pause=500&color=8132F7&background=FF45ED00&center=true&vCenter=true&width=500&lines=%F0%9F%92%BBFrontend+Developer...;%F0%9F%93%8A+Exploring+Data+Science+and+ML...;%F0%9F%A4%96+Prompt+Engineering...;%F0%9F%80%84Novice+Designer)](https://git.io/typing-svg)
 
 ###
 
@@ -57,14 +57,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" width="50" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" width="50" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38" width="50" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" width="50" alt="canva logo"  />
+  
 </div>
 
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Pin4sf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  /> -->
+  
   <img src="https://streak-stats.demolab.com?user=Pin4sf&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pin4sf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="138" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pin4sf&locale=en&hide_title=false&langs_count=5&theme=synthwave&hide_border=true&card_width=320&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pin4sf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
 </div>
 
 ###
+
+>Dev quotes for you                                    
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+###  
