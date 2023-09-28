@@ -94,8 +94,14 @@
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
+
 ###  
 
 ![github-contribution-grid-snake](https://github.com/Pin4sf/Pin4sf/assets/83578233/daf31d2a-2157-4b8e-994a-0c3570a58425)
 
+###
+
+[![An image of @pin4sf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pin4sf)](https://holopin.io/@pin4sf)
+
+###
 
