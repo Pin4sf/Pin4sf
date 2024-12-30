@@ -32,7 +32,7 @@
 
 ###
 <img align="right" height="150" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
-<p align="left">My name is Shivansh Fulper , I'm a undergrad student from India.<br><br>- 🪄 I like to explore new tools and technologies.<br>- 🌟 Currently I'm exploring Data science and Machine Learning.<br>- 🔮 In my free time you'll find me playing games or jamming music.<br>- 🎥 .</p>
+<p align="left">My name is Shivansh Fulper , I'm a undergrad student from India.<br><br>- 🪄 I like to explore new tools and technologies.<br>- 🌟 Currently I'm exploring Data science and Machine Learning.<br>- 🔮 In my free time you'll find me playing games or jamming music.<br>- 🎥 Spiderverse and Arcane are my all time favourite.</p>
 
 ###
 
