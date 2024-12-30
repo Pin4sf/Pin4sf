@@ -36,7 +36,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&size=24&duration=4000&pause=500&color=8132F7&background=FF45ED00&center=true&vCenter=true&width=500&lines=%F0%9F%92%BBFrontend+Developer...;%F0%9F%93%8A+Exploring+Data+Science+and+ML...;%F0%9F%A4%96+Prompt+Engineering...;%F0%9F%80%84Novice+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&size=24&duration=4000&pause=500&color=8132F7&background=FF45ED00&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Backend+Developer...;%F0%9F%93%8A+Data+Science;%F0%9F%A4%96+Machine+Learning...;%F0%9F%80%84+Artificial+Intelligence)](https://git.io/typing-svg)
 
 ###
 
